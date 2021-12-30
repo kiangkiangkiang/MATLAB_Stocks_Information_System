@@ -17,3 +17,14 @@ Sort by features.
 Overview in a certain period.
 
 others introduction in ReadMe.pdf file.
+
+The example shown as following:
+
+<div class="row">
+  <div class="column">
+    <img src="matlab_stocks.png" width = "40%" align = "left">
+  </div>
+  <div class="column">
+    <img src="matlab_stocks2.png" width = "40%" align = "left">   
+  </div>
+<div>
